@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/6q2AiRg.png" width="500">
-
 # Introdução
 
 O objetivo do desafio proposto é testar seu nível como desenvolvedor frontend. Este desafio deve ser feito apenas por você. Você poderá escolher entre utilizar ou não bibliotecas para auxiliar seu desenvolvimento, caso deseje utilizar, recomendo a que já conhecemos, Angular Material.
